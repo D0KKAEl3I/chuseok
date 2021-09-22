@@ -1,0 +1,13 @@
+table, tr,td{
+	border: black 1px solid;
+	margin:0 auto;
+}
+
+tr>td:nth-child(1){
+	text-align:center;
+	font-weight:bold;
+}
+
+td{
+	padding:2px;
+}
